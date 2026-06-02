@@ -1,8 +1,6 @@
-<<<<<<< HEAD
  Student Management System
 =======
 Student Management System
->>>>>>> d899d2c7d57215f9c561dee54ed620973533a56c
 
 A Student Management System developed using Java, Spring Boot, JPA, and MySQL.
 This project is built for learning REST API development and CRUD operations.
@@ -92,8 +90,6 @@ spring.jpa.hibernate.ddl-auto=update
 
  Author
 
-<<<<<<< HEAD
 Pooja Bhopale
 =======
-Pooja Bhopale
->>>>>>> d899d2c7d57215f9c561dee54ed620973533a56c
+
